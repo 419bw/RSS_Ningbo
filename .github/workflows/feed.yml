@@ -1,0 +1,21 @@
+name: Update RSS
+
+on:
+  schedule:
+    # 每天北京时间 12:00（UTC 04:00）
+    - cron: "0 4 * * *"
+  workflow_dispatch:  # 支持网页点一下手动跑（调试用）
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python fetcher.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update RSS feed"
