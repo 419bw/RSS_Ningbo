@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>宁波大学信息科学与工程学院 - 新闻中心</title>
+    <link>https://eecs.nbu.edu.cn/index/xwzx.htm</link>
+    <description>宁波大学信息科学与工程学院（集成电路学院、人工智能学院）新闻中心最新动态，自动从官网列表页抓取。</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 20 Jun 2026 15:07:00 +0800</lastBuildDate>
+    <item>
+      <title>笃行实干谋新篇 凝心聚力启新程 —集成电路学院与人工智能学院第七届“双代会”第四次会议顺利召开</title>
+      <link>https://eecs.nbu.edu.cn/info/1230/21957.htm</link>
+      <description>笃行实干谋新篇 凝心聚力启新程 —集成电路学院与人工智能学院第七届“双代会”第四次会议顺利召开</description>
+      <guid isPermaLink="false">https://eecs.nbu.edu.cn/info/1230/21957.htm</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+  <item>
+      <title>首次落地亚洲！我院承办IWLS2026国际逻辑综合研讨会</title>
+      <link>https://eecs.nbu.edu.cn/info/1230/21747.htm</link>
+      <description>首次落地亚洲！我院承办IWLS2026国际逻辑综合研讨会</description>
+      <guid isPermaLink="false">https://eecs.nbu.edu.cn/info/1230/21747.htm</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>集成电路学院/人工智能学院开展科研项目经费规范使用专题培训会</title>
+      <link>https://eecs.nbu.edu.cn/info/1230/21737.htm</link>
+      <description>集成电路学院/人工智能学院开展科研项目经费规范使用专题培训会</description>
+      <guid isPermaLink="false">https://eecs.nbu.edu.cn/info/1230/21737.htm</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>《超灵敏和高空间分辨扫描SQUID显微系统的研制与应用》国家重大量子专项研讨会成功召开</title>
+      <link>https://eecs.nbu.edu.cn/info/1230/21537.htm</link>
+      <description>《超灵敏和高空间分辨扫描SQUID显微系统的研制与应用》国家重大量子专项研讨会成功召开</description>
+      <guid isPermaLink="false">https://eecs.nbu.edu.cn/info/1230/21537.htm</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>赋能数智转型 共育行业英才 ——财信人寿・宁波大学银保精英研修班在我院成功举办</title>
+      <link>https://eecs.nbu.edu.cn/info/1230/21407.htm</link>
+      <description>赋能数智转型 共育行业英才 ——财信人寿・宁波大学银保精英研修班在我院成功举办</description>
+      <guid isPermaLink="false">https://eecs.nbu.edu.cn/info/1230/21407.htm</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>祝贺！我院学子在第23届浙江省大学生程序设计竞赛中再获佳绩</title>
+      <link>https://eecs.nbu.edu.cn/info/1230/21377.htm</link>
+      <description>祝贺！我院学子在第23届浙江省大学生程序设计竞赛中再获佳绩</description>
+      <guid isPermaLink="false">https://eecs.nbu.edu.cn/info/1230/21377.htm</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>集成电路学院在高性能压力传感器领域取得重要突破</title>
+      <link>https://eecs.nbu.edu.cn/info/1230/21207.htm</link>
+      <description>集成电路学院在高性能压力传感器领域取得重要突破</description>
+      <guid isPermaLink="false">https://eecs.nbu.edu.cn/info/1230/21207.htm</guid>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>集成电路学院与人工智能学院联合举办心理委员专题培训会</title>
+      <link>https://eecs.nbu.edu.cn/info/1230/21187.htm</link>
+      <description>集成电路学院与人工智能学院联合举办心理委员专题培训会</description>
+      <guid isPermaLink="false">https://eecs.nbu.edu.cn/info/1230/21187.htm</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0800</pubDate>
+    </item>
+    </channel>
+</rss>
