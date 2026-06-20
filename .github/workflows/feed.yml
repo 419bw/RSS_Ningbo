@@ -6,6 +6,9 @@ on:
     - cron: "0 4 * * *"
   workflow_dispatch:  # 支持网页点一下手动跑（调试用）
 
+permissions:
+  contents: write  # 允许 github-actions[bot] 推送 commit
+
 jobs:
   update:
     runs-on: ubuntu-latest
