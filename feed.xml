@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 08 Jul 2026 14:24:15 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 15:38:35 +0800</lastBuildDate>
     <item>
       <title>笃行实干谋新篇 凝心聚力启新程 —集成电路学院与人工智能学院第七届“双代会”第四次会议顺利召开</title>
       <link>https://eecs.nbu.edu.cn/info/1230/21957.htm</link>
@@ -56,13 +56,6 @@
       <description>集成电路学院在高性能压力传感器领域取得重要突破</description>
       <guid isPermaLink="false">https://eecs.nbu.edu.cn/info/1230/21207.htm</guid>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>集成电路学院与人工智能学院联合举办心理委员专题培训会</title>
-      <link>https://eecs.nbu.edu.cn/info/1230/21187.htm</link>
-      <description>集成电路学院与人工智能学院联合举办心理委员专题培训会</description>
-      <guid isPermaLink="false">https://eecs.nbu.edu.cn/info/1230/21187.htm</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0800</pubDate>
     </item>
     </channel>
 </rss>
